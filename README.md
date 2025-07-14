@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Easir Arafath</h1>
+<h1 align="center">👋, I'm Easir Arafath</h1>
 <h3 align="center">A passionate Data Sceintiest from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Python,SQl,Excel**
